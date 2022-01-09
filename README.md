@@ -20,7 +20,9 @@ you have to put this in command line :<br />
 `python shortener.py`<br />
 
 # Images
- ![alt text](https://github.com/ahmad-360/qrgenerator/blob/main/1.png?raw=true)
+ ![alt text](https://github.com/ahmad-360/pyshort/blob/main/1.png?raw=true)
  
- ![alt text](https://github.com/ahmad-360/qrgenerator/blob/main/2.png?raw=true)
+ ![alt text](https://github.com/ahmad-360/pyshort/blob/main/2.png?raw=true)
 
+ ![alt text](https://github.com/ahmad-360/pyshort/blob/main/3.png?raw=true)
+=
