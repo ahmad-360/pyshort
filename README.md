@@ -1,6 +1,7 @@
 # pyshort 
 
-Welcome again into another python3 app in this time we have a python url shorter
+Welcome again into another python3 app in this time we have a python url shorter.
+Note: I'm responsable for your usage because the app saves your Api, and id for reuse it another time whitout typing it. the file is .txt so be careful .
 
 # Linux users
 
